@@ -76,8 +76,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 code
 
 ->public
-    
+favicon
+index
+logo 192
+logo 512
+manifest
+robots
+
 ->src
+assets
+componets
+pages
+styles
+App
+App.js
+index
+index.js
+logo
+reportWebVitals.js
+setupTests.js
 
 ->.gitignore
 
